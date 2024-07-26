@@ -10,7 +10,7 @@
     ```
 
 
-<div align=center><img src="./ground_truth_STC.png" alt="Category-wise Target-aware Correlation" width="40%"></div>
+<div align=center><img src="./images/ground_truth_STC.png" alt="Category-wise Target-aware Correlation" width="40%"></div>
 
 
 # Visualize the learned semantic-temporal correlation
@@ -20,4 +20,4 @@
     python temporal_correlation.py
     ```
     
-<div align=center><img src="./TIN_STC.png" alt="Learned semantic-temporal correlation of TIN" width="40%"></div>
+<div align=center><img src="./images/TIN_STC.png" alt="Learned semantic-temporal correlation of TIN" width="40%"></div>
