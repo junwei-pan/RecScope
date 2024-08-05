@@ -6,9 +6,9 @@ The open source code for analysis tools mentioned in "[Ads Recommendation in a C
 
 
 🚧 **This code repository is under construction, stay tuned!**
-- The analysis of dimensional collapse is from the code for our ICML 2024 paper: [On the Embedding Collapse when Scaling up Recommendation Models](https://arxiv.org/abs/2310.04400)
-- The analysis of feature correlation is from the code for our WWW 2024 paper: [Temporal Interest Network for User Response Prediction](https://arxiv.org/abs/2308.08487)
-- The analysis of interest entanglement is from the code for our AAAI 2024 paper: [STEM: Unleashing the Power of Embeddings for Multi-task Recommendation](https://arxiv.org/abs/2308.13537)
+- The analysis of dimensional collapse is from the code for our ICML 2024 paper: **On the Embedding Collapse when Scaling up Recommendation Models**. [arXiv](https://arxiv.org/abs/2310.04400), [code](https://github.com/thuml/Multi-Embedding)
+- The analysis of feature correlation is from the code for our WWW 2024 paper: **Temporal Interest Network for User Response Prediction**. [arXiv](https://arxiv.org/abs/2308.08487), [code](https://github.com/zhouxy1003/TIN)
+- The analysis of interest entanglement is from the code for our AAAI 2024 paper: **STEM: Unleashing the Power of Embeddings for Multi-task Recommendation**. [arXiv](https://arxiv.org/abs/2308.13537), [code](https://github.com/LiangcaiSu/STEM)
 
 
 
